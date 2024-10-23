@@ -23,7 +23,7 @@ The algorithms were tested and compared on two datasets: Breast Cancer and Thyro
 
 ### Libraries Used
 - `matplotlib.pyplot`: Data visualization.
-- `numpy', 'pandas', 'os', 'tqdm', 'time': Data manipulation and time handling.
+- `numpy`, `pandas`, `os`, `tqdm`, `time`: Data manipulation and time handling.
 - `pulp`: Linear Programming Optimizer.
 - `sklearn.model_selection`: train-test split and k-fold scheme set-up.
 - `sklearn.datasets`: Loading sklearn datasets
